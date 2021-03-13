@@ -1,0 +1,15 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "This is an EndTerm project which includes local server using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/Dilnazzzzz/endterm"
+  },
+  "author": "Dilnaz Sadenova",
+  "license": "ISC"
+}
